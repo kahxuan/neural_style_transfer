@@ -1,8 +1,6 @@
 # Neural Style Transfer
 
-
-
-An implementation of based on [this paper](https://arxiv.org/pdf/1508.06576.pdf) in TensorFlow.
+An implementation of neural style transfer  in TensorFlow based on [this paper](https://arxiv.org/pdf/1508.06576.pdf).
 
 ### Example
 
